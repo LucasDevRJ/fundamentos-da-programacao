@@ -15,3 +15,12 @@ email = "abc@d.com";
 
 console.log(idade);
 console.log(email);
+
+var endereco = "Praça da Sá, 45 Apt#5";
+
+var anoNovo = 2019 + 1;
+var enderecoCompleto = endereco + ", São Paulo, SP";
+
+var x = ano + endereco;
+
+console.log(x);
