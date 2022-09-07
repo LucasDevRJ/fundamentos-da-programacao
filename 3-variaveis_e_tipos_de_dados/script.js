@@ -24,15 +24,3 @@ var enderecoCompleto = endereco + ", São Paulo, SP";
 var x = ano + endereco;
 
 console.log(x);
-
-var a = 5;
-
-console.log(a);
-
-a = 1000000.35;
-
-console.log(a);
-
-a = -1000000.35;
-
-console.log(a);
