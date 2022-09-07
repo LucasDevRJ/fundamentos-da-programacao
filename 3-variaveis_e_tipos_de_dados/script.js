@@ -1,10 +1,13 @@
+//Atribuição de valores em variáveis númericas e textuais
 var idade = 34;
 var email = "eu@a.com";
 var data = "01/01/19";
 var ano;
 
+//Mudança no valor da variável
 ano = 2019;
 
+//Exibição de valores no console
 console.log(idade);
 console.log(email);
 console.log(data);
